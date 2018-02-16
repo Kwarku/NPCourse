@@ -1,0 +1,33 @@
+Zadanie 1.
+Zadeklaruj jedną zmienną liczbową dowolnego typu. Zadeklaruj jej warość jako 2, nastepnie ją wyświetl na ekranie metodą System.out.println();
+W następnym kroku zmień wartość zmiennej na 7 i znów ją wypisz na konsolę.
+
+zad 2
+Zadeklaruj dwie zmienne stałoprzecinkowe dowolnego typu, następnie wyświetl metodą System.out.println();
+- dodawanie tych zmiennych
+- odejowanie tych zmiennych
+- mnożenie
+- dzielenie
+
+zad 3
+Przedstaw się.
+Stwórz kilka zmiennych odpowiednich by to zrobić (imię, nazwisko, wiek, co tam dalej chcesz).
+Następnie metodą System.out.println(); wypisz wszystko w konsoli.
+
+
+zad4
+Stwórz kalkulator BMI.
+Stwórz dwie zmienne zmiennoprzecinkowe, nastepnie oblicz swoje lub dowolne BMI.
+Podaję wzór do pomocy: masa ciała w kg podzielona przez wzrost w metrach do kwadratu
+
+
+zad5
+Stwórz kalkulator temperatur.
+Zamień temperature 1,500,000 st Celsiusa na Fahrenheita i odwrotnie
+wypisz zamienione temp na ekran.
+
+
+zad 6
+Stwrzórz prosty kalkulattor miejsc zerowych funkcji kwadratowej.
+Wylicz i wypisz na erkan miejsca zerowe funkcji  2x^2 + 8x + 5 = 0
+Uwaga : delta jest dodatnia, czyli 2 miejsca zerowe.
