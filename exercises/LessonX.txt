@@ -1,0 +1,13 @@
+Dziś zajmiemy się tablicami.
+
+Co to tablica? Dokładnie, to ta zielona, czarna lub biala powierzchnia do pisania na niej na zajeciach. Bum, koniec lekcji.
+
+Dobry żart. Choć jest w nim troche racji. Tablica jest konstrukcja zdolna przetrzymywac dane. Jakiego typu?
+Każdego. Moga przetrzymywać liczby stało lub zmiennoprzecinkowe, wartości logiczne (boolean), ciagi znaków lub pojedyncze znaki.
+Tablica w programowaniu pelni kluczowe znacznie. Właściwie wszsytko przetrymywane jest w takiej czy innej tablicy.
+
+Przyjżyjmy się więc takiej tablicy.
+
+int[] tablica = new int[5];
+
+ten konkretny przyklad 

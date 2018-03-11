@@ -2,6 +2,13 @@ package pl.narodzinyprogramisty;
 
 public class Lesson1 {
     public static void main(String[] args) {
+        byte age = 25;
+        short salary = 15_000;
+
+
+
+
+
         //zad1.
         int x = 2;
         System.out.println(x);
@@ -31,7 +38,7 @@ public class Lesson1 {
         //zad3.
         String name = "Paweł";
         String lastName = "Kuklicz";
-        byte age = 25;
+        byte myAge = 25;
         byte day = 6;
         String month = "Maj";
         short year = 1993;
